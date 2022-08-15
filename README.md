@@ -60,9 +60,7 @@
 </div>
 
 ### 运行效果：
-键盘驱动
-
-时钟中断
+键盘驱动和时钟中断
 <video>
   <source src="temp/2.mp4" type="video/mp4"/>
 </video>
