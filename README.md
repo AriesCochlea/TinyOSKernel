@@ -54,6 +54,10 @@
      4.依次运行sh build.sh和sh usb.sh。此时U盘已经准备完毕。
      5.在电脑关机状态下打开BIOS（每种型号电脑打开方法不一样，请自行搜索），
        如果是UEFI（一般都会兼容传统的BIOS）则改为传统BIOS启动（具体改法因机而异，请自行搜索），选择USB HDD启动。
+       
+<div>
+  <img src="temp/1.png" height="300"/>
+</div>
 
 ### 运行效果：
 
